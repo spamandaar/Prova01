@@ -1,0 +1,15 @@
+C:\Users\amand\Desktop\PROVA01\PROVA01\bin\Debug\netcoreapp3.1\PROVA01.exe
+C:\Users\amand\Desktop\PROVA01\PROVA01\bin\Debug\netcoreapp3.1\PROVA01.deps.json
+C:\Users\amand\Desktop\PROVA01\PROVA01\bin\Debug\netcoreapp3.1\PROVA01.runtimeconfig.json
+C:\Users\amand\Desktop\PROVA01\PROVA01\bin\Debug\netcoreapp3.1\PROVA01.runtimeconfig.dev.json
+C:\Users\amand\Desktop\PROVA01\PROVA01\bin\Debug\netcoreapp3.1\PROVA01.dll
+C:\Users\amand\Desktop\PROVA01\PROVA01\bin\Debug\netcoreapp3.1\PROVA01.pdb
+C:\Users\amand\Desktop\PROVA01\PROVA01\obj\Debug\netcoreapp3.1\PROVA01.csproj.AssemblyReference.cache
+C:\Users\amand\Desktop\PROVA01\PROVA01\obj\Debug\netcoreapp3.1\PROVA01.FrmCalc.resources
+C:\Users\amand\Desktop\PROVA01\PROVA01\obj\Debug\netcoreapp3.1\PROVA01.csproj.GenerateResource.cache
+C:\Users\amand\Desktop\PROVA01\PROVA01\obj\Debug\netcoreapp3.1\PROVA01.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\PROVA01\PROVA01\obj\Debug\netcoreapp3.1\PROVA01.AssemblyInfo.cs
+C:\Users\amand\Desktop\PROVA01\PROVA01\obj\Debug\netcoreapp3.1\PROVA01.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\PROVA01\PROVA01\obj\Debug\netcoreapp3.1\PROVA01.dll
+C:\Users\amand\Desktop\PROVA01\PROVA01\obj\Debug\netcoreapp3.1\PROVA01.pdb
+C:\Users\amand\Desktop\PROVA01\PROVA01\obj\Debug\netcoreapp3.1\PROVA01.genruntimeconfig.cache
