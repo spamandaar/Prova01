@@ -52,11 +52,13 @@ namespace PROVA01
         private void ZerarNum1(object sender, EventArgs e) //limpa o campo 
         {
             txtNum1.Text = "";
+            numero1 = 0;
         }
 
         private void ZerarNum2(object sender, EventArgs e) //limpa o campo
         {
             txtNum2.Text = "";
+            numero2 = 0;
         }
 
         private void valida_numeros(object sender, System.ComponentModel.CancelEventArgs e) //efetua validação para não ser digitado texto nos campos de número
@@ -92,6 +94,11 @@ namespace PROVA01
 
             }
           
+
+        }
+
+        private void btnSoma_CheckedChanged(object sender, EventArgs e)
+        {
 
         }
     }

@@ -113,6 +113,7 @@ namespace PROVA01
             this.btnSoma.TabStop = true;
             this.btnSoma.Text = "Adição";
             this.btnSoma.UseVisualStyleBackColor = true;
+            this.btnSoma.CheckedChanged += new System.EventHandler(this.btnSoma_CheckedChanged);
             this.btnSoma.Click += new System.EventHandler(this.Somar);
             // 
             // btnSubtrai
